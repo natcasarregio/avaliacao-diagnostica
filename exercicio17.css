@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(229, 209, 249); ;
+}
+div{
+    background-color: rgb(250, 105, 105);
+    margin: 10px;
+    padding: 100px;
+    border: 20px;
+}
+img{
+    height: 300px;
+}
